@@ -13,7 +13,7 @@ let package = Package(
         .binaryTarget(
             name: "DeviceIntelligence",
             url: "https://github.com/JuanLeenspace/device-intelligence-ios/releases/download/1.0.0/DeviceIntelligence.xcframework.zip",
-            checksum: "PLACEHOLDER"
+            checksum: "0a8e710d876acae0485be4d6e434e95db1d106f591d87e7c8325198068104223"
         )
     ]
 )
