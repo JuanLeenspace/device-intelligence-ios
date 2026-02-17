@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeviceIntelligenceSDK",
-            url: "https://github.com/JuanLeenspace/device-intelligence-ios/releases/download/1.0.3/DeviceIntelligenceSDK.xcframework.zip",
-            checksum: "681cc5398f9638144e1c4550c6cffbc583fd321222bac9c38adaf947e4aa2964"
+            url: "https://github.com/JuanLeenspace/device-intelligence-ios/releases/download/1.0.4/DeviceIntelligenceSDK.xcframework.zip",
+            checksum: "adf4e2ca51c769ff2091dbcce824b4773fa1093c1ae215ae5f232fd501c7369a"
         )
     ]
 )
