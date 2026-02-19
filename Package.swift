@@ -7,13 +7,13 @@ let package = Package(
         .iOS(.v15)
     ],
     products: [
-        .library(name: "DeviceIntelligenceSDK", targets: ["DeviceIntelligenceSDK"])
+        .library(name: "DeviceIntelligence", targets: ["DeviceIntelligence"])
     ],
     targets: [
         .binaryTarget(
-            name: "DeviceIntelligenceSDK",
-            url: "https://github.com/JuanLeenspace/device-intelligence-ios/releases/download/1.0.4/DeviceIntelligenceSDK.xcframework.zip",
-            checksum: "adf4e2ca51c769ff2091dbcce824b4773fa1093c1ae215ae5f232fd501c7369a"
+            name: "DeviceIntelligence",
+            url: "https://github.com/JuanLeenspace/device-intelligence-ios/releases/download/1.0.0/DeviceIntelligence.xcframework.zip",
+            checksum: "26ad11f7cb55df0c973f590ff7c6bff03aaace127d3e696647a529d3372d34a3"
         )
     ]
 )
